@@ -74,4 +74,15 @@ Which includes:
 ## .env setup
 
 1. Backend folder
+   ```sh
+   MONGODB_URI='mongodb+srv://<username>:<password>@cluster0.x9syf.mongodb.net/mindmatters?retryWrites=true&w=majority&appName=Cluster0' //login to mongodb atlas -> create free deployment -> view collection -> copy and paste connection string
+   // create cloudinary account and create an API key
+   CLOUDINARY_NAME='xxxxxxxxx'// paste cloud name
+   CLOUDINARY_API_KEY='000000000000000'// paste API key that you have generated
+   CLOUDINARY_SECRET_KEY='000000000000000'// paste secret key that you have generated
+   ADMIN_EMAIL = "admin@mindmatters.com"
+   ADMIN_PASSWORD = 'qwerty@123'
+   JWT_SECRET = "xxxxxx"// enter anything
+   CURRENCY="INR"
+   ```
    
