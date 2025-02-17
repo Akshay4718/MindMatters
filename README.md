@@ -85,4 +85,29 @@ Which includes:
    JWT_SECRET = "xxxxxx"// enter anything
    CURRENCY="INR"
    ```
+## 🚀 Running the Project
+
+   Open 3 terminals and run the following commands
+   1. First terminal(Run admin folder)
+      ```sh
+      cd admin
+      npm run dev
+    ```
    
+   2. Second terminal(Run backend folder)
+      ```sh
+      cd backend
+      npm run start
+      ```
+      
+   3. Third terminal(Run frontend folder)
+      ```sh
+      cd frontend
+      npm run dev
+      ```
+
+## 📌 Contributors
+   Akshay Anil Naik: [GitHub](https://github.com/Akshay4718)
+   Bhuvan H: [GitHub](https://github.com/BhuvanH3174)
+   Prajwal Narayan Patgar: [GitHub](https://github.com/PrajwalNP160)
+   Prajwal G R Gowda: [GitHub](https://github.com/Prajwal-GR)
