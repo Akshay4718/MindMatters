@@ -37,5 +37,35 @@ Which includes:
    npm install -D tailwindcss@3 postcss autoprefixer
    npx tailwindcss init -p
    ```
-   
+
+3. In Backend folder
+
+   Change directory
+   ```sh
+   cd backend
+   ```
+
+   Install node packages
+   ```sh
+   npm install bcrypt cloudinary cors dotenv express jsonwebtoken mongoose multer nodemon validator
+   ```
+
+4. In Frontend folder
+
+   Change directory
+   ```sh
+   cd frontend
+   ```
+
+   Install required packages
+   ```sh
+   npm install axios react-dom react-router-dom react-toastify
+   ```
+
+   Tailwind CSS setup
+   ```sh
+   npm install -D tailwindcss@3 postcss autoprefixer
+   npx tailwindcss init -p
+   ```
+
 
