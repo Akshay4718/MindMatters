@@ -109,7 +109,7 @@ Which includes:
 ## 📌 Contributors
    Akshay Anil Naik: [GitHub](https://github.com/Akshay4718)
    
-   Bhuvan H: [GitHub](https://github.com/BhuvanH3174)
+   Bhuvan H: [GitHub](https://github.com/BhuvanH317)
    
    Prajwal Narayan Patgar: [GitHub](https://github.com/PrajwalNP160)
    
