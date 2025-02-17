@@ -29,6 +29,7 @@ Which includes:
 
    Install required packages
    ```sh
+   npm i
    npm install axios react-dom react-router-dom react-toastify
    ```
 
@@ -47,6 +48,7 @@ Which includes:
 
    Install node packages
    ```sh
+   npm i
    npm install bcrypt cloudinary cors dotenv express jsonwebtoken mongoose multer nodemon validator
    ```
 
@@ -59,6 +61,7 @@ Which includes:
 
    Install required packages
    ```sh
+   npm i
    npm install axios react-dom react-router-dom react-toastify
    ```
 
@@ -68,4 +71,7 @@ Which includes:
    npx tailwindcss init -p
    ```
 
+## .env setup
 
+1. Backend folder
+   
