@@ -21,14 +21,20 @@ Which includes:
    git clone https://github.com/Akshay4718/Mindmatters.git
 
 2. In Admin folder
+   Change directory
    ```sh
    cd admin
+   ```
 
+   Install required packages
    ```sh
    npm install axios react-dom react-router-dom react-toastify
+   ```
 
+   Tailwind CSS setup
    ```sh
    npm install -D tailwindcss@3 postcss autoprefixer
    npx tailwindcss init -p
+   ```
    
 
