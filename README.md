@@ -92,7 +92,7 @@ Which includes:
       ```sh
       cd admin
       npm run dev
-    ```
+      ```
    
    2. Second terminal(Run backend folder)
       ```sh
