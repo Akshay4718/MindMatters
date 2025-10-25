@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import {createContext} from 'react'
 import axios from 'axios'
-export const AdminContext=createContext()
+export const AdminContext=createContext();
 import {toast} from 'react-toastify'
 const AdminContextProvider=(props)=>{
 
